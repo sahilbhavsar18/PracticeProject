@@ -1,1 +1,1 @@
-#Demo Project For Learning Git and GitHub
+Demo Project For Learning Git and GitHub
